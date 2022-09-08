@@ -1,0 +1,11 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.7\include"  -G   --keep-dir x64\Debug  -maxrregcount=0  --machine 64 --compile -cudart static  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /Fdx64\Debug\vc143.pdb /FS /Zi /RTC1 /MDd " -o "D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\x64\Debug\kernel.cu.obj" "D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\kernel.cu" 
+D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\kernel.cu(53): warning #177-D: variable "rangeSize" was declared but never referenced
+  
+D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\kernel.cu(34): warning #550-D: variable "cudaStatus" was set but never used
+  
+  kernel.cu
+     Creating library D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\x64\Debug\Matrix Manipulation Using GPU.lib and object D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\x64\Debug\Matrix Manipulation Using GPU.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Matrix Manipulation Using GPU.vcxproj -> D:\Github\HackerRank-Compi\GPUProgramming\Matrix Manipulation Using GPU\x64\Debug\Matrix Manipulation Using GPU.exe

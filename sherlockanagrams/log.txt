@@ -1,0 +1,1109 @@
+Result: abba
+Seeker::matchReverse -> 
+SeekerPos: 0
+seekerSize: 1
+reverseSeekerPos: 3
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 1
+seekerSize: 1
+reverseSeekerPos: 2
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 2
+seekerSize: 1
+reverseSeekerPos: 1
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 3
+seekerSize: 1
+reverseSeekerPos: 0
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 4
+seekerSize: 2
+reverseSeekerPos: 3
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 5
+seekerSize: 2
+reverseSeekerPos: 2
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 6
+seekerSize: 2
+reverseSeekerPos: 1
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 7
+seekerSize: 2
+reverseSeekerPos: 0
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 8
+seekerSize: 3
+reverseSeekerPos: 3
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 9
+seekerSize: 3
+reverseSeekerPos: 2
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 10
+seekerSize: 3
+reverseSeekerPos: 1
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+abba
+Seeker::matchReverse -> 
+SeekerPos: 11
+seekerSize: 3
+reverseSeekerPos: 0
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+4
+Result: abcd
+Seeker::matchReverse -> 
+SeekerPos: 0
+seekerSize: 1
+reverseSeekerPos: 3
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 1
+seekerSize: 1
+reverseSeekerPos: 2
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 2
+seekerSize: 1
+reverseSeekerPos: 1
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 3
+seekerSize: 1
+reverseSeekerPos: 0
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 4
+seekerSize: 2
+reverseSeekerPos: 3
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 5
+seekerSize: 2
+reverseSeekerPos: 2
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 6
+seekerSize: 2
+reverseSeekerPos: 1
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 7
+seekerSize: 2
+reverseSeekerPos: 0
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 8
+seekerSize: 3
+reverseSeekerPos: 3
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 9
+seekerSize: 3
+reverseSeekerPos: 2
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 10
+seekerSize: 3
+reverseSeekerPos: 1
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+abcd
+Seeker::matchReverse -> 
+SeekerPos: 11
+seekerSize: 3
+reverseSeekerPos: 0
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+0
+Result: ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 0
+seekerSize: 1
+reverseSeekerPos: 9
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 1
+seekerSize: 1
+reverseSeekerPos: 8
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 2
+seekerSize: 1
+reverseSeekerPos: 7
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 3
+seekerSize: 1
+reverseSeekerPos: 6
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 4
+seekerSize: 1
+reverseSeekerPos: 5
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 5
+seekerSize: 1
+reverseSeekerPos: 4
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 6
+seekerSize: 1
+reverseSeekerPos: 3
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 7
+seekerSize: 1
+reverseSeekerPos: 2
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 8
+seekerSize: 1
+reverseSeekerPos: 1
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 9
+seekerSize: 1
+reverseSeekerPos: 0
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 10
+seekerSize: 2
+reverseSeekerPos: 9
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 11
+seekerSize: 2
+reverseSeekerPos: 8
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 12
+seekerSize: 2
+reverseSeekerPos: 7
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 13
+seekerSize: 2
+reverseSeekerPos: 6
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 14
+seekerSize: 2
+reverseSeekerPos: 5
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 15
+seekerSize: 2
+reverseSeekerPos: 4
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 16
+seekerSize: 2
+reverseSeekerPos: 3
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 17
+seekerSize: 2
+reverseSeekerPos: 2
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 18
+seekerSize: 2
+reverseSeekerPos: 1
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 19
+seekerSize: 2
+reverseSeekerPos: 0
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 20
+seekerSize: 3
+reverseSeekerPos: 9
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 21
+seekerSize: 3
+reverseSeekerPos: 8
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 22
+seekerSize: 3
+reverseSeekerPos: 7
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 23
+seekerSize: 3
+reverseSeekerPos: 6
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 24
+seekerSize: 3
+reverseSeekerPos: 5
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 25
+seekerSize: 3
+reverseSeekerPos: 4
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 26
+seekerSize: 3
+reverseSeekerPos: 3
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 27
+seekerSize: 3
+reverseSeekerPos: 2
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 28
+seekerSize: 3
+reverseSeekerPos: 1
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 29
+seekerSize: 3
+reverseSeekerPos: 0
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 30
+seekerSize: 4
+reverseSeekerPos: 9
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 31
+seekerSize: 4
+reverseSeekerPos: 8
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 32
+seekerSize: 4
+reverseSeekerPos: 7
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 33
+seekerSize: 4
+reverseSeekerPos: 6
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 34
+seekerSize: 4
+reverseSeekerPos: 5
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 35
+seekerSize: 4
+reverseSeekerPos: 4
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 36
+seekerSize: 4
+reverseSeekerPos: 3
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 37
+seekerSize: 4
+reverseSeekerPos: 2
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 38
+seekerSize: 4
+reverseSeekerPos: 1
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 39
+seekerSize: 4
+reverseSeekerPos: 0
+reverseSeekerSize: 4
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 40
+seekerSize: 5
+reverseSeekerPos: 9
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 41
+seekerSize: 5
+reverseSeekerPos: 8
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 42
+seekerSize: 5
+reverseSeekerPos: 7
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 43
+seekerSize: 5
+reverseSeekerPos: 6
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 44
+seekerSize: 5
+reverseSeekerPos: 5
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 45
+seekerSize: 5
+reverseSeekerPos: 4
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 46
+seekerSize: 5
+reverseSeekerPos: 3
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 47
+seekerSize: 5
+reverseSeekerPos: 2
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 48
+seekerSize: 5
+reverseSeekerPos: 1
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 49
+seekerSize: 5
+reverseSeekerPos: 0
+reverseSeekerSize: 5
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 50
+seekerSize: 6
+reverseSeekerPos: 9
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 51
+seekerSize: 6
+reverseSeekerPos: 8
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 52
+seekerSize: 6
+reverseSeekerPos: 7
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 53
+seekerSize: 6
+reverseSeekerPos: 6
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 54
+seekerSize: 6
+reverseSeekerPos: 5
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 55
+seekerSize: 6
+reverseSeekerPos: 4
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 56
+seekerSize: 6
+reverseSeekerPos: 3
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 57
+seekerSize: 6
+reverseSeekerPos: 2
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 58
+seekerSize: 6
+reverseSeekerPos: 1
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 59
+seekerSize: 6
+reverseSeekerPos: 0
+reverseSeekerSize: 6
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 60
+seekerSize: 7
+reverseSeekerPos: 9
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 61
+seekerSize: 7
+reverseSeekerPos: 8
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 62
+seekerSize: 7
+reverseSeekerPos: 7
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 63
+seekerSize: 7
+reverseSeekerPos: 6
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 64
+seekerSize: 7
+reverseSeekerPos: 5
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 65
+seekerSize: 7
+reverseSeekerPos: 4
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 66
+seekerSize: 7
+reverseSeekerPos: 3
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 67
+seekerSize: 7
+reverseSeekerPos: 2
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 68
+seekerSize: 7
+reverseSeekerPos: 1
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 69
+seekerSize: 7
+reverseSeekerPos: 0
+reverseSeekerSize: 7
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 70
+seekerSize: 8
+reverseSeekerPos: 9
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 71
+seekerSize: 8
+reverseSeekerPos: 8
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 72
+seekerSize: 8
+reverseSeekerPos: 7
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 73
+seekerSize: 8
+reverseSeekerPos: 6
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 74
+seekerSize: 8
+reverseSeekerPos: 5
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 75
+seekerSize: 8
+reverseSeekerPos: 4
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 76
+seekerSize: 8
+reverseSeekerPos: 3
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 77
+seekerSize: 8
+reverseSeekerPos: 2
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 78
+seekerSize: 8
+reverseSeekerPos: 1
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 79
+seekerSize: 8
+reverseSeekerPos: 0
+reverseSeekerSize: 8
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 80
+seekerSize: 9
+reverseSeekerPos: 9
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 81
+seekerSize: 9
+reverseSeekerPos: 8
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 82
+seekerSize: 9
+reverseSeekerPos: 7
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 83
+seekerSize: 9
+reverseSeekerPos: 6
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 84
+seekerSize: 9
+reverseSeekerPos: 5
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 85
+seekerSize: 9
+reverseSeekerPos: 4
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 86
+seekerSize: 9
+reverseSeekerPos: 3
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 87
+seekerSize: 9
+reverseSeekerPos: 2
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 88
+seekerSize: 9
+reverseSeekerPos: 1
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+ifailuhkqq
+Seeker::matchReverse -> 
+SeekerPos: 89
+seekerSize: 9
+reverseSeekerPos: 0
+reverseSeekerSize: 9
+matchReverse: 0
+=====================================
+0
+Result: kkkk
+Seeker::matchReverse -> 
+SeekerPos: 0
+seekerSize: 1
+reverseSeekerPos: 3
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 1
+seekerSize: 1
+reverseSeekerPos: 2
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 2
+seekerSize: 1
+reverseSeekerPos: 1
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 3
+seekerSize: 1
+reverseSeekerPos: 0
+reverseSeekerSize: 1
+matchReverse: 1
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 4
+seekerSize: 2
+reverseSeekerPos: 3
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 5
+seekerSize: 2
+reverseSeekerPos: 2
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 6
+seekerSize: 2
+reverseSeekerPos: 1
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 7
+seekerSize: 2
+reverseSeekerPos: 0
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 8
+seekerSize: 3
+reverseSeekerPos: 3
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 9
+seekerSize: 3
+reverseSeekerPos: 2
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 10
+seekerSize: 3
+reverseSeekerPos: 1
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+kkkk
+Seeker::matchReverse -> 
+SeekerPos: 11
+seekerSize: 3
+reverseSeekerPos: 0
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+4
+Result: cdcd
+Seeker::matchReverse -> 
+SeekerPos: 0
+seekerSize: 1
+reverseSeekerPos: 3
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 1
+seekerSize: 1
+reverseSeekerPos: 2
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 2
+seekerSize: 1
+reverseSeekerPos: 1
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 3
+seekerSize: 1
+reverseSeekerPos: 0
+reverseSeekerSize: 1
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 4
+seekerSize: 2
+reverseSeekerPos: 3
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 5
+seekerSize: 2
+reverseSeekerPos: 2
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 6
+seekerSize: 2
+reverseSeekerPos: 1
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 7
+seekerSize: 2
+reverseSeekerPos: 0
+reverseSeekerSize: 2
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 8
+seekerSize: 3
+reverseSeekerPos: 3
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 9
+seekerSize: 3
+reverseSeekerPos: 2
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 10
+seekerSize: 3
+reverseSeekerPos: 1
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+cdcd
+Seeker::matchReverse -> 
+SeekerPos: 11
+seekerSize: 3
+reverseSeekerPos: 0
+reverseSeekerSize: 3
+matchReverse: 0
+=====================================
+0
